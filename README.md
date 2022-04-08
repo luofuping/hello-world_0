@@ -1,14 +1,6 @@
 # hello-world_0
 It's April 8, 2022,my first repository
-在您创建的 readme-edits 分支下，单击 README.md 文件。
 
-单击  编辑文件。
-
-在编辑器中，编写一些关于您自己的内容。 尝试使用不同的 Markdown 元素。
-
-在 Commit changes（提交更改） 框中，编写描述更改的提交消息。
-
-单击 Commit changes（提交更改）
 
 +++++++++++++++++++++++++++++++++++++++++
 
